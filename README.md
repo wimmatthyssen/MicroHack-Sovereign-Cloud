@@ -1,2 +1,2 @@
 # MicroHack-Sovereign-Cloud
-Azure PowerShell script for the MicroHack-Sovereign-Cloud from Microsoft
+Azure PowerShell scripts for the MicroHack-Sovereign-Cloud from Microsoft
